@@ -1,0 +1,6 @@
+likho("Namaste Duniya!")
+agar 5 bada 3:
+    likho("5 bada hai 3 se")
+nahi_to:
+    likho("Ye nahi chalega bhai")
+
