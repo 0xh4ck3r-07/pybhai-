@@ -1,0 +1,15 @@
+bol("Tera naam kya hai bhai?")
+naam = sun()
+
+bol("Kitne saal ke ho?")
+umar = int(sun())
+
+bol("Kahan se ho?")
+city = sun()
+
+agar umar < 18:
+    bol("Tu abhi chhota bhai hai! School sambhal le pehle 😂")
+warna:
+    bol("Badiya bhai! Life set kar rahe ho lagta hai 💪")
+
+bol("Mila humko ek naya dost: " + naam + " from " + city + "!")
